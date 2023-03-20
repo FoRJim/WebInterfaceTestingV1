@@ -28,7 +28,7 @@ public class CardOrderTest {
 
     @Test
      void shouldTestSomething(){
-        throw new UnsupportedOperationException();
+        driver.get("http://localhost:9999");
     }
 
 
